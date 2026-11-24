@@ -4,7 +4,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const STORY =
-  "The smart speaker said goodnight in my voice before I spoke. When I checked the app, the only device online was the one I had unplugged.";
+  "Our family portrait came back with one extra child. We only ever had two — and the extra one is holding my hand, and it has my eyes.";
 
 function main(): void {
   // The gate only accepts UTF-8 text of 1 to 400 characters that is not
